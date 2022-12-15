@@ -1,0 +1,12 @@
+<?php
+
+
+$session_token="6065a70889308338a462af3eb2e5d1407ff53b65d0687a2174e13f2a1d8e4730";
+
+$remember_me="112332%3A0ee79140fbe916fe6fb83db20a5b72d0dfb260f58d85701afa3ba5e7bf974d5d%3Afa879f658277da8dbb619c0d04e7b5ec64f768c457b70d2dfa1c71480127c8ae";
+
+$faucetpay="lgm8jm4poi0r7o6ng150mo2ki1";
+
+$source="6";
+
+
